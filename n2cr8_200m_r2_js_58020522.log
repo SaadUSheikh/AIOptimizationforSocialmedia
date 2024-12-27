@@ -1,0 +1,11 @@
+Job ID: 58020522
+Cluster: spartan
+User/Group: sthanadanfra/comp90024
+State: COMPLETED (exit code 0)
+Nodes: 2
+Cores per node: 4
+CPU Utilized: 02:04:18
+CPU Efficiency: 98.96% of 02:05:36 core-walltime
+Job Wall-clock time: 00:15:42
+Memory Utilized: 1.31 GB (estimated maximum)
+Memory Efficiency: 84.08% of 1.56 GB (200.00 MB/core)

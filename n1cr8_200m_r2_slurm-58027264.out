@@ -1,0 +1,42 @@
+
+########################################################################################################
+
+the happiest hour ever, 1-2pm on 31st December 2021 with an overall sentiment score of +3658.952144
+the happiest day ever,31st December 2021 was the happiest day with an overall sentiment score of +30402.262571
+the most active hour ever,12-1pm on 21st May 2022 had the most tweets (#39061)
+the most active day ever,21st May 2022 had the most tweets (#424372)
+--------------------------------------------------------------------------------------------------------
+Time taken for processing the job is: 591.488 seconds
+
+########################################################################################################
+
+Job ID           : 58027264
+Cluster          : spartan
+User/Project     : sthanadanfra/comp90024
+Nodes            : 1
+Wall-clock time  : 00:09:56 / 01:00:00
+
+Displaying overall resources usage from 2024-04-06 17:28:14 to 2024-04-06 17:38:10:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm179 : 
+                CPU# 1    : 97.0   (  89.4 /   7.6 /   0.0 /   3.0 ) 
+                CPU# 2    : 97.0   (  89.1 /   7.9 /   0.0 /   3.0 ) 
+                CPU# 3    : 97.0   (  89.2 /   7.8 /   0.0 /   3.0 ) 
+                CPU# 4    : 97.0   (  89.3 /   7.7 /   0.0 /   3.0 ) 
+                CPU# 5    : 97.0   (  89.1 /   7.9 /   0.0 /   3.0 ) 
+                CPU# 6    : 97.0   (  89.1 /   7.8 /   0.0 /   3.0 ) 
+                CPU# 7    : 97.0   (  89.3 /   7.7 /   0.0 /   3.0 ) 
+                CPU# 8    : 97.0   (  89.3 /   7.7 /   0.0 /   3.0 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.3%  [5MB of 1678MB]
+
+--------------------------------------------
+
